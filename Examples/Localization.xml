@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UIM>
+  <State Name="English">
+    <Control Name="Boolean">
+      <UIP Name="CaptionUIP" Value="Boolean"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="CaptionUIP" Value="File Path Control"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="CaptionUIP" Value="Numeric Control"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="CaptionUIP" Value="Stop Button"/>
+    </Control>
+    <Control Name="String">
+      <UIP Name="CaptionUIP" Value="String"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="CaptionUIP" Value="UI State"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="CaptionUIP" Value="Waveform Chart"/>
+    </Control>
+  </State>
+  <State Name="Polski">
+    <Control Name="Boolean">
+      <UIP Name="CaptionUIP" Value="Kontrolka Logiczna"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="CaptionUIP" Value="Ścieżka do pliku"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="CaptionUIP" Value="Kontrolka Numeryczna"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="CaptionUIP" Value="Przycisk Stop"/>
+    </Control>
+    <Control Name="String">
+      <UIP Name="CaptionUIP" Value="Tekst"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="CaptionUIP" Value="Stan Interfejsu Użytkownika"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="CaptionUIP" Value="Wykres"/>
+    </Control>
+  </State>
+</UIM>

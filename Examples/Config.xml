@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UIM>
+  <State Name="Sine">
+    <Control Name="Sine Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Sine Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Square Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Square Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Triangle Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Triangle Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+  </State>
+  <State Name="Square">
+    <Control Name="Sine Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Sine Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Square Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Square Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Triangle Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Triangle Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+  </State>
+  <State Name="Triangle">
+    <Control Name="Sine Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Sine Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Square Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Square Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Triangle Amplitude">
+      <UIP Name="PositionUIP" Value="245 30"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Triangle Frequency">
+      <UIP Name="PositionUIP" Value="325 110"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+  </State>
+</UIM>

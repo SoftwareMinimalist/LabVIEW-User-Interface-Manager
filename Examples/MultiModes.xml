@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UIM>
+  <State Name="Caption">
+    <Control Name="Array - String">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="CaptionUIP" Value="Stop Button"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="CaptionUIP" Value="UI State"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="CaptionUIP" Value="New Caption"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="CaptionUIP" Value="code"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="CaptionUIP" Value="source"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="CaptionUIP" Value="status"/>
+    </Control>
+  </State>
+  <State Name="Enabled">
+    <Control Name="Array - String">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+    </Control>
+  </State>
+  <State Name="Position">
+    <Control Name="Array - String">
+      <UIP Name="PositionUIP" Value="501, 42"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="PositionUIP" Value="240, 321"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="PositionUIP" Value="504, 366"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="PositionUIP" Value="504, 246"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="PositionUIP" Value="720, 162"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="PositionUIP" Value="240, 186"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="PositionUIP" Value="-9, 87"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="PositionUIP" Value="240, 246"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="PositionUIP" Value="720, 42"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="PositionUIP" Value="723, 254"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="PositionUIP" Value="-9, 26"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="PositionUIP" Value="240, 42"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="PositionUIP" Value="322, 349"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="PositionUIP" Value="252, 398"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="PositionUIP" Value="250, 349"/>
+    </Control>
+  </State>
+  <State Name="Size">
+    <Control Name="Array - String">
+      <UIP Name="SizeUIP" Value="89, 52"/>
+    </Control>
+    <Control Name="Error In"/>
+    <Control Name="File Path Control">
+      <UIP Name="SizeUIP" Value="96, 37"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="SizeUIP" Value="96, 96"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="SizeUIP" Value="133, 60"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="SizeUIP" Value="177, 17"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="SizeUIP" Value="192, 36"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="SizeUIP" Value="216, 36"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="SizeUIP" Value="132, 96"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="SizeUIP" Value="84, 96"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="SizeUIP" Value="192, 37"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="SizeUIP" Value="38, 46"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="SizeUIP" Value="110, 17"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="SizeUIP" Value="192, 61"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="SizeUIP" Value="19, 19"/>
+    </Control>
+  </State>
+  <State Name="Visible">
+    <Control Name="Array - String">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="VisibleUIP" Value="FALSE"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+  </State>
+  <State Name="default">
+    <Control Name="Array - String">
+      <UIP Name="CaptionUIP" Value="Array - String"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="504, 283"/>
+      <UIP Name="SizeUIP" Value="125, 29"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="CaptionUIP" Value="Error In"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="240, 165"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="CaptionUIP" Value="File Path Control"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="504, 210"/>
+      <UIP Name="SizeUIP" Value="132, 37"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="CaptionUIP" Value="Listbox"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="504, 42"/>
+      <UIP Name="SizeUIP" Value="144, 132"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="CaptionUIP" Value="Meter"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="708, 42"/>
+      <UIP Name="SizeUIP" Value="192, 86"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="CaptionUIP" Value="Numeric Control"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="240, 43"/>
+      <UIP Name="SizeUIP" Value="93, 17"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="CaptionUIP" Value="Stop Button"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="-9, 87"/>
+      <UIP Name="SizeUIP" Value="192, 36"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="CaptionUIP" Value="Boolean"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="240, 102"/>
+      <UIP Name="SizeUIP" Value="132, 36"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="CaptionUIP" Value="Table"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="708, 354"/>
+      <UIP Name="SizeUIP" Value="189, 158"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="CaptionUIP" Value="Tank"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="711, 158"/>
+      <UIP Name="SizeUIP" Value="144, 132"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="CaptionUIP" Value="UI State"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="-9, 26"/>
+      <UIP Name="SizeUIP" Value="192, 37"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="CaptionUIP" Value="Waveform Chart"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="240, 342"/>
+      <UIP Name="SizeUIP" Value="122, 84"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="code">
+      <UIP Name="CaptionUIP" Value="code"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="322, 193"/>
+      <UIP Name="SizeUIP" Value="69, 17"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="source">
+      <UIP Name="CaptionUIP" Value="source"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="252, 242"/>
+      <UIP Name="SizeUIP" Value="150, 61"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="status">
+      <UIP Name="CaptionUIP" Value="status"/>
+      <UIP Name="DisabledUIP" Value="Enabled"/>
+      <UIP Name="PositionUIP" Value="250, 193"/>
+      <UIP Name="SizeUIP" Value="19, 19"/>
+      <UIP Name="VisibleUIP" Value="TRUE"/>
+    </Control>
+  </State>
+</UIM>

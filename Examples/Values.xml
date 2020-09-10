@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<UIM>
+    <State Name="Set1">
+        <Control Name="Boolean">
+            <UIP Name="ValueUIP" Value="TRUE"/>
+        </Control>
+        <Control Name="Enum">
+            <UIP Name="ValueUIP" Value="First Value"/>
+        </Control>
+        <Control Name="File Path Control">
+            <UIP Name="ValueUIP" Value="c:\some_file.txt"/>
+        </Control>
+        <Control Name="Horizontal Pointer Slide">
+            <UIP Name="ValueUIP" Value="2.222222"/>
+        </Control>
+        <Control Name="Knob">
+            <UIP Name="ValueUIP" Value="3"/>
+        </Control>
+        <Control Name="Menu Ring">
+            <UIP Name="ValueUIP" Value="2"/>
+        </Control>
+        <Control Name="Meter">
+            <UIP Name="ValueUIP" Value="2.52"/>
+        </Control>
+        <Control Name="Numeric Control">
+            <UIP Name="ValueUIP" Value="3.14"/>
+        </Control>
+        <Control Name="String">
+            <UIP Name="ValueUIP" Value="Pi"/>
+        </Control>
+        <Control Name="Tab Control">
+            <UIP Name="ValueUIP" Value="Cat"/>
+        </Control>
+    </State>
+    <State Name="Set2">
+        <Control Name="Boolean">
+            <UIP Name="ValueUIP" Value="FALSE"/>
+        </Control>
+        <Control Name="Enum">
+            <UIP Name="ValueUIP" Value="Second Value"/>
+        </Control>
+        <Control Name="File Path Control">
+            <UIP Name="ValueUIP" Value="c:\other_file.txt"/>
+        </Control>
+        <Control Name="Horizontal Pointer Slide">
+            <UIP Name="ValueUIP" Value="6"/>
+        </Control>
+        <Control Name="Knob">
+            <UIP Name="ValueUIP" Value="2"/>
+        </Control>
+        <Control Name="Menu Ring">
+            <UIP Name="ValueUIP" Value="0"/>
+        </Control>
+        <Control Name="Meter">
+            <UIP Name="ValueUIP" Value="6"/>
+        </Control>
+        <Control Name="Numeric Control">
+            <UIP Name="ValueUIP" Value="8787"/>
+        </Control>
+        <Control Name="String">
+            <UIP Name="ValueUIP" Value="Blah"/>
+        </Control>
+        <Control Name="Tab Control">
+            <UIP Name="ValueUIP" Value="Dog"/>
+        </Control>
+    </State>
+    <State Name="default">
+        <Control Name="Boolean">
+            <UIP Name="ValueUIP" Value="TRUE"/>
+        </Control>
+        <Control Name="Enum">
+            <UIP Name="ValueUIP" Value="Something Else"/>
+        </Control>
+        <Control Name="File Path Control">
+            <UIP Name="ValueUIP" Value="c:\default_file.txt"/>
+        </Control>
+        <Control Name="Horizontal Pointer Slide">
+            <UIP Name="ValueUIP" Value="9.009"/>
+        </Control>
+        <Control Name="Knob">
+            <UIP Name="ValueUIP" Value="0.0"/>
+        </Control>
+        <Control Name="Menu Ring">
+            <UIP Name="ValueUIP" Value="1.1"/>
+        </Control>
+        <Control Name="Meter">
+            <UIP Name="ValueUIP" Value="10.00"/>
+        </Control>
+        <Control Name="Numeric Control">
+            <UIP Name="ValueUIP" Value="0.000000"/>
+        </Control>
+        <Control Name="String">
+            <UIP Name="ValueUIP" Value="Default String"/>
+        </Control>
+        <Control Name="Tab Control">
+            <UIP Name="ValueUIP" Value="Cat"/>
+        </Control>
+    </State>
+</UIM>

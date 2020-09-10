@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UIM>
+  <State Name="1024x768">
+    <Control Name="Tab Control">
+      <UIP Name="PositionUIP" Value="-84, 12"/>
+      <UIP Name="SizeUIP" Value="792, 744"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="PositionUIP" Value="-72, 362"/>
+      <UIP Name="SizeUIP" Value="144, 364"/>
+    </Control>
+    <Control Name="Play Button">
+      <UIP Name="PositionUIP" Value="-72, 30"/>
+      <UIP Name="SizeUIP" Value="144, 72"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="PositionUIP" Value="-288, 78"/>
+      <UIP Name="SizeUIP" Value="192, 36"/>
+    </Control>
+    <Control Name="String">
+      <UIP Name="PositionUIP" Value="-72, 126"/>
+      <UIP Name="SizeUIP" Value="144, 216"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="PositionUIP" Value="-288, 17"/>
+      <UIP Name="SizeUIP" Value="192, 37"/>
+    </Control>
+    <Control Name="Waveform Graph">
+      <UIP Name="PositionUIP" Value="72, 30"/>
+      <UIP Name="SizeUIP" Value="541, 631"/>
+    </Control>
+  </State>
+  <State Name="1600x900">
+    <Control Name="Tab Control">
+      <UIP Name="PositionUIP" Value="-84, 12"/>
+      <UIP Name="SizeUIP" Value="1368, 876"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="PositionUIP" Value="-72, 402"/>
+      <UIP Name="SizeUIP" Value="204, 456"/>
+    </Control>
+    <Control Name="Play Button">
+      <UIP Name="PositionUIP" Value="-72, 30"/>
+      <UIP Name="SizeUIP" Value="204, 108"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="PositionUIP" Value="-288, 78"/>
+      <UIP Name="SizeUIP" Value="192, 36"/>
+    </Control>
+    <Control Name="String">
+      <UIP Name="PositionUIP" Value="-72, 162"/>
+      <UIP Name="SizeUIP" Value="204, 216"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="PositionUIP" Value="-288, 17"/>
+      <UIP Name="SizeUIP" Value="192, 37"/>
+    </Control>
+    <Control Name="Waveform Graph">
+      <UIP Name="PositionUIP" Value="132, 30"/>
+      <UIP Name="SizeUIP" Value="1057, 763"/>
+    </Control>	
+  </State>
+  <State Name="800x600">
+    <Control Name="Tab Control">
+      <UIP Name="PositionUIP" Value="-84, 12"/>
+      <UIP Name="SizeUIP" Value="564, 576"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="PositionUIP" Value="-72, 342"/>
+      <UIP Name="SizeUIP" Value="108, 216"/>
+    </Control>
+    <Control Name="Play Button">
+      <UIP Name="PositionUIP" Value="-72, 30"/>
+      <UIP Name="SizeUIP" Value="108, 60"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="PositionUIP" Value="-288, 78"/>
+      <UIP Name="SizeUIP" Value="192, 36"/>
+    </Control>
+    <Control Name="String">
+      <UIP Name="PositionUIP" Value="-72, 114"/>
+      <UIP Name="SizeUIP" Value="108, 204"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="PositionUIP" Value="-288, 17"/>
+      <UIP Name="SizeUIP" Value="192, 37"/>
+    </Control>
+    <Control Name="Waveform Graph">
+      <UIP Name="PositionUIP" Value="48, 30"/>
+      <UIP Name="SizeUIP" Value="337, 463"/>
+    </Control>
+  </State>
+</UIM>
