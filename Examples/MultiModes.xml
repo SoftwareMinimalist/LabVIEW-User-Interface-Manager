@@ -1,52 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <UIM>
-  <State Name="Caption">
-    <Control Name="Array - String">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Error In">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="File Path Control">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Listbox">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Meter">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Numeric Control">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Stop Button">
-      <UIP Name="CaptionUIP" Value="Stop Button"/>
-    </Control>
-    <Control Name="Stop Button 2">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Table">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="Tank">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="UI State">
-      <UIP Name="CaptionUIP" Value="UI State"/>
-    </Control>
-    <Control Name="Waveform Chart">
-      <UIP Name="CaptionUIP" Value="New Caption"/>
-    </Control>
-    <Control Name="code">
-      <UIP Name="CaptionUIP" Value="code"/>
-    </Control>
-    <Control Name="source">
-      <UIP Name="CaptionUIP" Value="source"/>
-    </Control>
-    <Control Name="status">
-      <UIP Name="CaptionUIP" Value="status"/>
-    </Control>
-  </State>
   <State Name="Enabled">
     <Control Name="Array - String">
       <UIP Name="DisabledUIP" Value="Disabled and Grayed Out"/>

@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
@@ -22,34 +22,20 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="QuickDrop" Type="Folder">
-			<Item Name="Capture UI State [UIM].vi" Type="VI" URL="../QuickDrop/Capture UI State [UIM].vi"/>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Config.xml" Type="Document" URL="../Examples/Config.xml"/>
+			<Item Name="Localization.xml" Type="Document" URL="../Examples/Localization.xml"/>
+			<Item Name="MultiModes.xml" Type="Document" URL="../Examples/MultiModes.xml"/>
+			<Item Name="Resolution.xml" Type="Document" URL="../Examples/Resolution.xml"/>
+			<Item Name="UIM All Properties.vi" Type="VI" URL="../Examples/UIM All Properties.vi"/>
+			<Item Name="UIM Executable Build.vi" Type="VI" URL="../Examples/UIM Executable Build.vi"/>
+			<Item Name="UIM Programmatic User Modes.vi" Type="VI" URL="../Examples/UIM Programmatic User Modes.vi"/>
+			<Item Name="UIM Resolution.vi" Type="VI" URL="../Examples/UIM Resolution.vi"/>
+			<Item Name="UIM Values.vi" Type="VI" URL="../Examples/UIM Values.vi"/>
+			<Item Name="UIM Visibility Configuration.vi" Type="VI" URL="../Examples/UIM Visibility Configuration.vi"/>
+			<Item Name="Values.xml" Type="Document" URL="../Examples/Values.xml"/>
 		</Item>
-		<Item Name="RightClick" Type="Folder">
-			<Item Name="UIM State Capture" Type="Folder">
-				<Item Name="Execute UIM State Capture.vi" Type="VI" URL="../RightClick/UIM State Capture.llb/Execute UIM State Capture.vi"/>
-				<Item Name="UIM State Capture.ctl" Type="VI" URL="../RightClick/UIM State Capture.llb/UIM State Capture.ctl"/>
-				<Item Name="UIM State Capture.vi" Type="VI" URL="../RightClick/UIM State Capture.llb/UIM State Capture.vi"/>
-			</Item>
-		</Item>
-		<Item Name="TemplateUIP" Type="Folder">
-			<Item Name="TemplateUIP.lvclass" Type="LVClass" URL="../TemplateUIP/TemplateUIP.lvclass"/>
-		</Item>
-		<Item Name="UI Properties" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="CaptionUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/CaptionUIP/CaptionUIP.lvclass"/>
-			<Item Name="DescriptionUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/DescriptionUIP/DescriptionUIP.lvclass"/>
-			<Item Name="DisabledUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/DisabledUIP/DisabledUIP.lvclass"/>
-			<Item Name="PositionUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/PositionUIP/PositionUIP.lvclass"/>
-			<Item Name="SizeUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/SizeUIP/SizeUIP.lvclass"/>
-			<Item Name="TipStripUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/TipStripUIP/TipStripUIP.lvclass"/>
-			<Item Name="UIP.lvclass" Type="LVClass" URL="../UIP/UIP.lvclass"/>
-			<Item Name="ValueUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/ValueUIP/ValueUIP.lvclass"/>
-			<Item Name="VisibleUIP.lvclass" Type="LVClass" URL="../Plugin UIPs/VisibleUIP/VisibleUIP.lvclass"/>
-		</Item>
-		<Item Name="Capture UI State SubVI.vi" Type="VI" URL="../UIM/Capture UI State SubVI.vi"/>
-		<Item Name="UIM Tool.vi" Type="VI" URL="../UIM/UIM Tool.vi"/>
-		<Item Name="UIM.lvclass" Type="LVClass" URL="../UIM/UIM.lvclass"/>
+		<Item Name="UIM.lvlib" Type="Library" URL="../UIM.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -111,6 +97,9 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="ex_BuildTextVarProps.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express output/BuildTextBlock.llb/ex_BuildTextVarProps.ctl"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -121,6 +110,14 @@
 			<Item Name="Relative Position.ctl" Type="VI" URL="/&lt;resource&gt;/plugins/PopupMenus/support/Relative Position.ctl"/>
 			<Item Name="Checkmark Status.ctl" Type="VI" URL="/&lt;resource&gt;/plugins/PopupMenus/support/Checkmark Status.ctl"/>
 			<Item Name="Enabled Menu Item Status.ctl" Type="VI" URL="/&lt;resource&gt;/plugins/PopupMenus/support/Enabled Menu Item Status.ctl"/>
+			<Item Name="UIP.lvclass" Type="LVClass" URL="../UIP/UIP.lvclass"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Obtain UIM.vi" Type="VI" URL="../UIM/Obtain UIM.vi"/>
+			<Item Name="Load XML.vi" Type="VI" URL="../UIM/XML/Load XML.vi"/>
+			<Item Name="Get States.vi" Type="VI" URL="../UIM/States/Get States.vi"/>
+			<Item Name="Apply UI State.vi" Type="VI" URL="../UIM/States/Apply UI State.vi"/>
+			<Item Name="Release UIM.vi" Type="VI" URL="../UIM/Release UIM.vi"/>
+			<Item Name="Capture UI State.vi" Type="VI" URL="../UIM/States/Capture UI State.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<UIM>
+
+  <UIPList>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\CaptionUIP\CaptionUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\DescriptionUIP\DescriptionUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\DisabledUIP\DisabledUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\PositionUIP\PositionUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\SizeUIP\SizeUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\TipStripUIP\TipStripUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\ValueUIP\ValueUIP.lvclass"/>
+    <UIPPlugin Enabled="TRUE" Path="C:\GitHub\LabVIEW-User-Interface-Manager\Plugin UIPs\VisibleUIP\VisibleUIP.lvclass"/>
+  </UIPList>
+
+  <State Name="default">
+    <Control Name="Array">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Array"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="-138, 298"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="211, 37"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Array - String">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Array - String"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="504, 329"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="125, 29"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Error In">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Error In"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value="&lt;B>error in&lt;/B> can accept error information wired from VIs previously called. Use this information to decide if any functionality should be bypassed in the event of errors from other VIs.&#xA;&#xA;Right-click the &lt;B>error in&lt;/B> control on the front panel and select &lt;B>Explain Error&lt;/B> or &lt;B>Explain Warning&lt;/B> from the shortcut menu for more information about the error. "/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="240, 165"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="File Path Control">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="File Path Control"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="504, 210"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="132, 37"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Listbox">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Listbox"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="504, 42"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="144, 132"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Meter">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Meter"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="708, 42"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="192, 86"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="0,000000"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Numeric Control">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Numeric Control"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="240, 43"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="93, 17"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="0,000000"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Stop Button"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="-9, 87"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="192, 36"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="FALSE"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Stop Button 2">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Boolean"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="240, 102"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="132, 36"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="FALSE"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Table">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Table"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="708, 354"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="189, 158"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Tank">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Tank"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="711, 158"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="144, 132"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="0,000000"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="UI State">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="UI State"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="-9, 26"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="192, 37"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="4,000000"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="Waveform Chart">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="Waveform Chart"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value=""/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="240, 342"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="122, 84"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+    <Control Name="XML File">
+      <UIP Name="UIM.lvlib:CaptionUIP" Value="UIM XML Path"/>
+      <UIP Name="UIM.lvlib:DescriptionUIP" Value="&lt;B>path to XML document&lt;/B> contains the location of the XML document you want to load into the XML parser."/>
+      <UIP Name="UIM.lvlib:DisabledUIP" Value="Enabled"/>
+      <UIP Name="UIM.lvlib:PositionUIP" Value="0, 185"/>
+      <UIP Name="UIM.lvlib:SizeUIP" Value="156, 84"/>
+      <UIP Name="UIM.lvlib:TipStripUIP" Value=""/>
+      <UIP Name="UIM.lvlib:ValueUIP" Value="C:\GitHub\LabVIEW-User-Interface-Manager\Examples\MultiModes.xml"/>
+      <UIP Name="UIM.lvlib:VisibleUIP" Value="TRUE"/>
+    </Control>
+  </State>
+
+</UIM>
